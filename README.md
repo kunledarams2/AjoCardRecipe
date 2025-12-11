@@ -1,5 +1,5 @@
 # AjoCardRecipe
-# A single-page Android application that fetches and displays a list of recipes from a remote JSON source:
+ A single-page Android application that fetches and displays a list of recipes from a remote JSON source:
 # Source:
 # https://hf-android-app.s3-eu-west-1.amazonaws.com/android-test/recipes.json
 # Features
